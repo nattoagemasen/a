@@ -1,0 +1,186 @@
+Enter Player1's name (max. 16 chars): Taro⏎
+Enter Player2's name (max. 16 chars): Hanako⏎
+
+Taro vs Hanako
+
+Player1's turn (o)
+What is the vertical position? 0⏎
+What is the horizontal position? 0⏎
+|o| | |
+| | | |
+| | | |
+Player2's turn (x)
+What is the vertical position? 1⏎
+What is the horizontal position? 1⏎
+|o| | |
+| |x| |
+| | | |
+Player1's turn (o)
+What is the vertical position? 0⏎
+What is the horizontal position? 1⏎
+|o|o| |
+| |x| |
+| | | |
+Player2's turn (x)
+What is the vertical position? 0⏎
+What is the horizontal position? 2⏎
+|o|o|x|
+| |x| |
+| | | |
+Player1's turn (o)
+What is the vertical position? 3⏎
+What is the horizontal position? 3⏎
+Cannot put there
+What is the vertical position? 1⏎
+What is the horizontal position? 0⏎
+|o|o|x|
+|o|x| |
+| | | |
+Player2's turn (x)
+What is the vertical position? 2⏎
+What is the horizontal position? 0⏎
+|o|o|x|
+|o|x| |
+|x| | |
+Player2 (x), Hanako wins!
+
+Continue? (yes/no): yes⏎
+Player1's turn (o)
+What is the vertical position? 0⏎
+What is the horizontal position? 0⏎
+|o| | |
+| | | |
+| | | |
+Player2's turn (x)
+What is the vertical position? 0⏎
+What is the horizontal position? 1⏎
+|o|x| |
+| | | |
+| | | |
+Player1's turn (o)
+What is the vertical position? 1⏎
+What is the horizontal position? 0⏎
+|o|x| |
+|o| | |
+| | | |
+Player2's turn (x)
+What is the vertical position? 0⏎
+What is the horizontal position? 0⏎
+Cannot put there
+What is the vertical position? 1⏎
+What is the horizontal position? 1⏎
+|o|x| |
+|o|x| |
+| | | |
+Player1's turn (o)
+What is the vertical position? 2⏎
+What is the horizontal position? 0⏎
+|o|x| |
+|o|x| |
+|o| | |
+Player1 (o), Taro wins!
+
+Continue? (yes/no): yes⏎
+Player1's turn (o)
+What is the vertical position? 0⏎
+What is the horizontal position? 0⏎
+|o| | |
+| | | |
+| | | |
+Player2's turn (x)
+What is the vertical position? 0⏎
+What is the horizontal position? 1⏎
+|o|x| |
+| | | |
+| | | |
+Player1's turn (o)
+What is the vertical position? 0⏎
+What is the horizontal position? 2⏎
+|o|x|o|
+| | | |
+| | | |
+Player2's turn (x)
+What is the vertical position? 1⏎
+What is the horizontal position? 1⏎
+|o|x|o|
+| |x| |
+| | | |
+Player1's turn (o)
+What is the vertical position? 2⏎
+What is the horizontal position? 1⏎
+|o|x|o|
+| |x| |
+| |o| |
+Player2's turn (x)
+What is the vertical position? 1⏎
+What is the horizontal position? 0⏎
+|o|x|o|
+|x|x| |
+| |o| |
+Player1's turn (o)
+What is the vertical position? 1⏎
+What is the horizontal position? 2⏎
+|o|x|o|
+|x|x|o|
+| |o| |
+Player2's turn (x)
+What is the vertical position? 2⏎
+What is the horizontal position? 2⏎
+|o|x|o|
+|x|x|o|
+| |o|x|
+Player1's turn (o)
+What is the vertical position? 2⏎
+What is the horizontal position? 0⏎
+|o|x|o|
+|x|x|o|
+|o|o|x|
+Draw.
+
+Continue? (yes/no): yes⏎
+Player1's turn (o)
+What is the vertical position? 0⏎
+What is the horizontal position? 0⏎
+|o| | |
+| | | |
+| | | |
+Player2's turn (x)
+What is the vertical position? 1⏎
+What is the horizontal position? 1⏎
+|o| | |
+| |x| |
+| | | |
+Player1's turn (o)
+What is the vertical position? 2⏎
+What is the horizontal position? 1⏎
+|o| | |
+| |x| |
+| |o| |
+Player2's turn (x)
+What is the vertical position? 2⏎
+What is the horizontal position? 0⏎
+|o| | |
+| |x| |
+|x|o| |
+Player1's turn (o)
+What is the vertical position? 0⏎
+What is the horizontal position? 1⏎
+|o|o| |
+| |x| |
+|x|o| |
+Player2's turn (x)
+What is the vertical position? 0⏎
+What is the horizontal position? 2⏎
+|o|o|x|
+| |x| |
+|x|o| |
+Player2 (x), Hanako wins!
+
+Continue? (yes/no): no⏎
+
+Plays: 4
+Wins of Player1 Taro: 1
+Wins of Player2 Hanako: 2
+Draws: 1
+Taro's winning percentage: 0.250
+Hanako's winning percentage: 0.500
